@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9725d172.css",
+    "main.js": "/static/js/main.5b104572.js",
+    "static/media/CABANAS.png": "/static/media/CABANAS.2f003255000fbb3e542a.png",
+    "static/media/4.png": "/static/media/4.20687b8c1aba0f89fe52.png",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.287fb4df93f77473cd7332d5de5efc27.svg",
+    "index.html": "/index.html",
+    "main.9725d172.css.map": "/static/css/main.9725d172.css.map",
+    "main.5b104572.js.map": "/static/js/main.5b104572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9725d172.css",
+    "static/js/main.5b104572.js"
+  ]
+}
